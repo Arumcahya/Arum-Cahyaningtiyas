@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I am Ningning
+
+Detail-oriented data entry specialist, accurately entering and managing data across various platforms. Proficient in Microsoft Excel, Google Sheets, and data management software. Committed to delivering high-quality work with a focus on efficiency and accuracy.
+
+
 
 <!--
 **Arumcahya/Arumcahya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
