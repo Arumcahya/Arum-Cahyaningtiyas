@@ -1,4 +1,4 @@
-## Hi there 👋 I am Ningning
+## Hi there 👋 I am Arum Cahya
 
 Detail-oriented data entry specialist, accurately entering and managing data across various platforms. Proficient in Microsoft Excel, Google Sheets, and data management software. Committed to delivering high-quality work with a focus on efficiency and accuracy.
 
